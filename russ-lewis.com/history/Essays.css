@@ -1,0 +1,92 @@
+html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, variable, form, fieldset, blockquote {
+	padding: 0;
+	margin: 0;
+	font-size: 100%;
+	font-weight: normal;
+}
+#bodycolor {
+	background-color: #999;
+}
+
+h1 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 14pt;
+	padding-top: 14px;
+}
+
+h2 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+}
+
+h3 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.copyright {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12pt;
+	font-style: normal;
+	vertical-align: baseline;
+	text-align: center;
+	font-weight: bold;
+}
+
+#CenterBlock {
+	background-color: #eeeeee;
+	width: 70%;
+	text-align: left;
+	background-position: center;
+	color: #000;
+	vertical-align: middle;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding-top: 20px;
+	padding-right: 40px;
+	padding-bottom: 20px;
+	padding-left: 40px;
+	border: medium ridge #fff;
+}
+
+p {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14pt;
+	text-indent: 3em;
+	line-height: 140%;
+}
+
+.longquote {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	margin-right: 40px;
+	margin-left: 40px;
+	line-height: normal;
+}
+
+.poem {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	margin-right: 40px;
+	margin-left: 40px;
+	line-height: 20px;
+	text-indent: 0;
+}
+
+.footnote {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	text-align: left;
+	text-indent: 0;
+}
+
+img { border: none; }
